@@ -7,17 +7,18 @@
   I'm a Computer Science undergraduate passionate about software development <br> constantly learning and building projects that solve real-world problems.  
 </p>
 <p style="font-size: 20px; line-height: 1.6;">
-  As a Python Developer, I have extensive experience and expertise <br> 
+  As a Python and Flutter Developer, I have extensive experience and expertise <br> 
   in the following areas: 
 </p>
 <ul style="font-size: 20px; line-height: 1.6;">
+  <li>Cross-Platform App Development using Flutter</li>
+  <li>Database Management and Integration</li>
+  <li>Desktop Application Development</li>
   <li>Web Scraping</li>
   <li>Web Automation</li>
-  <li>Desktop Application Development</li>
-  <li>Machine Learning & Deep Learning</li>
-  <li>Database Management and Integration</li>
-  <li>Web Development using Flask and Django</li>
+  <li>Android Automation</li>
 </ul>
+
 <p style="font-size: 20px; line-height: 1.6;">
   I love collaborating with diverse teams to brainstorm <br> 
   new ideas and tackle real-world problems.
