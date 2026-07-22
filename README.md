@@ -1,31 +1,27 @@
-<h1 align="center">Hi there, I'm Rehan Ahmed 👋</h1>
-<h3 align="center">Flutter Developer | Python Automation Engineer | Freelancer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0D1117&height=200&section=header&text=Rehan%20Ahmed&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Python%20Automation%20Engineer%20%7C%20Freelancer&descAlignY=55&descSize=18&descColor=D9FFF2&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
   <a href="mailto:rehanahmd218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/rehanahmd218"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/rehanahmd218"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://github.com/rehanahmd218"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/s/e6ggzLD"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~016c53808133e667bd?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rehanahmd218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rehanahmed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2EE6A6?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE6A6&center=true&vCenter=true&width=700&lines=Building+cross-platform+apps+with+Flutter;Automating+the+web+with+Python;Turning+ideas+into+products+for+clients+worldwide" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EE6A6&height=100&section=header" />
-</p>
-
 ---
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Computer Science** student at UET Taxila (CGPA 3.64/4.0)
+- 🎓 BS in **Computer Science** from UET Taxila (CGPA 3.64/4.0)
 - 💼 Freelance Software Developer on **Fiverr & Upwork** since Jan 2023 — 5★ seller rating
 - 📱 Building high-performance, accessible cross-platform apps with **Flutter & Dart**
 - 🐍 Deep hands-on expertise in **Python** — automation, web scraping, desktop apps, backend APIs
-- 🔭 Currently working on **TaskLink** — a hyperlocal gig-marketplace app (Flutter + Django + PostGIS)
-- 🌱 Currently exploring on-device Android automation (UiAutomator2, ADB/Termux) & PCB design
 - 🏆 Scored **98.5th percentile** on the National Software Competency Test (NSCT), Apr 2026
 - 💬 Ask me about Flutter, Python automation, web scraping, or freelancing on Fiverr/Upwork
 
@@ -75,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rehanahmd218&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanahmd218&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EE6A6" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rehanahmd218&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EE6A6" />
 </p>
 
 <p align="center">
@@ -87,15 +83,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanahmd218&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EE6A6&line=2EE6A6&point=FFFFFF" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rehanahmd218/rehanahmd218/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> Note: the snake animation needs a one-time GitHub Actions setup to generate — I've included the workflow file below so it auto-updates daily.
 
 ---
 
@@ -103,7 +90,7 @@
   <img src="https://komarev.com/ghpvc/?username=rehanahmd218&style=for-the-badge&color=2EE6A6" alt="profile views"/>
 </p>
 
-<h3 align="center">💡 "Turning ideas into reliable, real-world software — one app at a time."</h3>
+<h3 align="center">💡 Build. Break. Learn. Repeat.</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EE6A6&height=80&section=footer" />
