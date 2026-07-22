@@ -90,7 +90,7 @@
   <img src="https://komarev.com/ghpvc/?username=rehanahmd218&style=for-the-badge&color=2EE6A6" alt="profile views"/>
 </p>
 
-<h3 align="center">💡 Build. Break. Learn. Repeat.</h3>
+<h3 align="center"><code>> 💡 Build. Break. Learn. Repeat. _</code></h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EE6A6&height=80&section=footer" />
